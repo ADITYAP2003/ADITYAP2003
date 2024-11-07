@@ -6,7 +6,7 @@
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=adityap2003" alt="adityap2003" /></a> </p>
 
 - 📫 How to reach me **adityapawar1703@gmail.com**
-<h3 align="left">Portfolio Website🔗https://66963260588c7d4ae7bd8923--gentle-licorice-fe3569.netlify.app/</h3>
+<h3 align="left">Portfolio Website🔗https://66bb5ed9ab60232beb659af9--deluxe-lamington-7201e1.netlify.app/</h3>
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://linkedin.com/in/aditya pawar" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="aditya pawar" height="30" width="40" /></a>
